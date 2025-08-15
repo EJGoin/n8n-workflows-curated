@@ -1,3 +1,27 @@
+# CS Automation, n8n Templates
+
+Curated n8n workflows for Customer Success teams: onboarding acceleration, QBR prep, renewal risk radar, and executive reporting.
+
+## Highlights
+- Onboarding status sync to CRM and Slack
+- Renewal Trigger Tracker with weekly alerts
+- QBR packet builder, Slides and email
+
+## How to use
+1. Grab a JSON from `/workflows/`
+2. In n8n, Import from file
+3. Set credentials and environment variables listed in each workflow README
+
+## Repo layout
+- `/workflows` Erick curated templates with instructions
+- `/third_party` Mirrored source material for reference
+- `ATTRIBUTION.md` links and credits
+- `LICENSE` terms for my original content
+
+## Safety and credit
+This repo mixes my original work with credited third party templates. See `ATTRIBUTION.md` for sources and notes on reuse.
+
+
 # ⚡ N8N Workflow Collection & Documentation
 
 A professionally organized collection of **2,053 n8n workflows** with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
@@ -460,3 +484,4 @@ This comprehensive collection includes workflows from:
 ---
 
 [中文](./README_ZH.md)
+
